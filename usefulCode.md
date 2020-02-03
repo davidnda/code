@@ -1,6 +1,6 @@
 ## Building code to generate the correct JSON for a class
 
-`
+````
         try {
             order = new AmendableOrder();
             Catalog catalog = new Catalog();
@@ -48,3 +48,4 @@
         }
         
         `
+````
