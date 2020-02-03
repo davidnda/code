@@ -1,6 +1,6 @@
 ## Building code to generate the correct JSON for a class
 
-````
+````java
         try {
             order = new AmendableOrder();
             Catalog catalog = new Catalog();
